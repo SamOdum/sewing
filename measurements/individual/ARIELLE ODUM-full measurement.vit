@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vit>
+    <!--Measurements created with Seamly2D v0.6.0.1 (http://fashionfreedom.eu/).-->
+    <version>0.3.3</version>
+    <read-only>false</read-only>
+    <notes>Approximate hieght:	104cm
+Approximate age:	4 years</notes>
+    <unit>cm</unit>
+    <pm_system>42</pm_system>
+    <personal>
+        <family-name>Odum</family-name>
+        <given-name>Arrielle</given-name>
+        <birth-date>1800-01-01</birth-date>
+        <gender>female</gender>
+        <email>arielle.odum@gmail.com</email>
+    </personal>
+    <body-measurements>
+        <m name="height" value="104"/>
+        <m full_name="Approximate age" name="@age" value="4"/>
+        <m name="bust_circ" value="57"/>
+        <m name="waist_circ" value="54"/>
+        <m name="hip_circ" value="59"/>
+        <m name="across_back_b" value="23.6"/>
+        <m name="neck_circ" value="27.2"/>
+        <m name="shoulder_length" value="7.8"/>
+        <m name="arm_upper_circ" value="19"/>
+        <m name="arm_wrist_circ" value="13"/>
+        <m name="armscye_length" value="13.8"/>
+        <m name="neck_back_to_waist_b" value="25.4"/>
+        <m name="waist_to_hip_f" value="12.9"/>
+        <m name="height_neck_back" value="85.4"/>
+        <m name="leg_waist_side_to_knee" value="36"/>
+        <m name="height_waist_side_to_knee" value="36"/>
+        <m name="rise_length_side_sitting" value="17.6"/>
+        <m name="leg_crotch_to_floor" value="44.5"/>
+        <m name="arm_shoulder_tip_to_wrist_bent" value="36.5"/>
+        <m name="arm_shoulder_tip_to_wrist" value="36.5"/>
+        <m name="head_circ" value="51.8"/>
+        <m name="leg_ankle_circ" value="16"/>
+        <m name="@Cuff_size_2_piece" value="10.4"/>
+        <m name="@Cuff_size_shirts" value="15.8"/>
+        <m name="@Trouser_bottom_width" value="16.5"/>
+        <m name="@Jeans_bottom_width" value="14"/>
+    </body-measurements>
+</vit>

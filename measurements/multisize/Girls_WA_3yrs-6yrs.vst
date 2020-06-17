@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vst>
+    <!--Measurements created with Seamly2D v0.6.0.1 (http://fashionfreedom.eu/).-->
+    <version>0.4.4</version>
+    <read-only>false</read-only>
+    <notes>This multisize table is for Girls from 3 YEARS to 6 YEARS. 
+Height 98cm-116cm.
+
+It is size-based and uses size 34, 36, 38, and 40 as bases coresponding to table ages 3, 4, 5, and 6.
+
+A continuation of these sizes can be found in other multisize tables.</notes>
+    <unit>cm</unit>
+    <pm_system>998</pm_system>
+    <size base="34"/>
+    <height base="98"/>
+    <body-measurements>
+        <m base="98" height_increase="0" name="height" size_increase="6"/>
+        <m base="3" height_increase="0" name="@age" size_increase="1"/>
+        <m base="55" height_increase="0" name="bust_circ" size_increase="2"/>
+        <m base="52" height_increase="0" name="waist_circ" size_increase="2"/>
+        <m base="56" height_increase="0" name="hip_circ" size_increase="3"/>
+        <m base="22.8" height_increase="0" name="across_back_b" size_increase="0.8"/>
+        <m base="26.6" height_increase="0" name="neck_circ" size_increase="0.6"/>
+        <m base="7.4" height_increase="0" name="shoulder_length" size_increase="0.4"/>
+        <m base="18.5" height_increase="0" name="arm_above_elbow_circ" size_increase="0.5"/>
+        <m base="12.8" height_increase="0" name="arm_wrist_circ" size_increase="0.2"/>
+        <m base="13.2" height_increase="0" name="armscye_length" size_increase="0.6"/>
+        <m base="24.2" height_increase="0" name="neck_back_to_waist_b" size_increase="1.2"/>
+        <m base="12.3" height_increase="0" name="waist_to_hip_f" size_increase="0.6"/>
+        <m base="80" height_increase="0" name="height_neck_back" size_increase="5.4"/>
+        <m base="34" height_increase="0" name="height_waist_side_to_knee" size_increase="2"/>
+        <m base="16.8" height_increase="0" name="rise_length_side_sitting" size_increase="0.8"/>
+        <m base="41" height_increase="0" name="leg_crotch_to_floor" size_increase="3.5"/>
+        <m base="34" height_increase="0" name="arm_shoulder_tip_to_wrist" size_increase="2.5"/>
+        <m base="51.2" height_increase="0" name="head_circ" size_increase="0.6"/>
+        <m base="15.5" height_increase="0" name="leg_ankle_diag_circ" size_increase="0.5"/>
+        <m base="10.2" full_name="Cuff size, two-piece sleeve" height_increase="0" name="@M_2" size_increase="0.2"/>
+        <m base="15.4" full_name="Cuff size, shirts" height_increase="0" name="@M_3" size_increase="0.4"/>
+        <m base="16" full_name="Trouser bottom width" height_increase="0" name="@M_4" size_increase="0.5"/>
+        <m base="13.5" full_name="Jeans bottom width" height_increase="0" name="@M_5" size_increase="0.5"/>
+    </body-measurements>
+</vst>

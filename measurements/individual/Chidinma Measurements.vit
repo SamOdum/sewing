@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vit>
+    <!--Measurements created with Seamly2D v0.6.0.0a (http://fashionfreedom.eu/).-->
+    <version>0.3.3</version>
+    <read-only>false</read-only>
+    <notes/>
+    <unit>inch</unit>
+    <pm_system>37</pm_system>
+    <personal>
+        <family-name/>
+        <given-name/>
+        <birth-date>1800-01-01</birth-date>
+        <gender>unknown</gender>
+        <email/>
+    </personal>
+    <body-measurements>
+        <m name="bust_circ" value="34.5"/>
+        <m name="waist_circ" value="23.5"/>
+        <m name="highhip_circ" value="35.8"/>
+        <m name="hip_circ" value="43.5"/>
+        <m name="neck_front_to_waist_f" value="14.2"/>
+        <m name="neck_back_to_waist_b" value="13.2"/>
+        <m name="neck_side_to_waist_f" value="16.2"/>
+        <m name="neck_side_to_waist_b" value="14.6"/>
+        <m name="shoulder_tip_to_waist_front" value="15.9"/>
+        <m name="shoulder_tip_to_waist_back" value="14.8"/>
+        <m name="neck_side_to_waist_side_f" value="15.2"/>
+        <m name="bustpoint_to_shoulder_tip" value="10.06"/>
+        <m name="bustpoint_to_lowbust" value="3.5"/>
+        <m name="bustpoint_to_bustpoint_half" value="3.4"/>
+        <m name="armpit_to_waist_side" value="6.5"/>
+        <m name="neck_arc_half_b" value="3.3"/>
+        <m name="shoulder_length" value="3.7"/>
+        <m name="shoulder_tip_to_shoulder_tip_half_f" value="6.4"/>
+        <m name="shoulder_tip_to_shoulder_tip_half_b" value="6.6"/>
+        <m name="across_chest_half_f" value="5.5"/>
+        <m name="across_back_half_b" value="5.8"/>
+        <m name="bust_arc_half_f" value="9.7"/>
+        <m name="bust_arc_half_b" value="6.5"/>
+        <m name="waist_arc_half_f" value="6.1"/>
+        <m name="waist_arc_half_b" value="5.2"/>
+        <m description="Center front to side front (princess line)" full_name="Dart placement" name="@Dart_placement_f" value="3"/>
+        <m description="Center back waist to side back (princess line)" full_name="Dart placement" name="@Dart_placement_b" value="3"/>
+        <m name="highhip_arc_half_f" value="8.2"/>
+        <m name="highhip_arc_half_b" value="9.7"/>
+        <m name="hip_arc_half_f" value="9.4"/>
+        <m name="hip_arc_half_b" value="11.3"/>
+        <m name="rise_length_side" value="11.7"/>
+        <m name="waist_to_hip_f" value="9.9"/>
+        <m name="waist_to_hip_b" value="10.7"/>
+        <m name="waist_to_hip_side" value="10.7"/>
+        <m name="leg_waist_side_to_knee" value="25.7"/>
+        <m name="leg_waist_side_to_ankle" value="40.9"/>
+        <m name="leg_waist_side_to_floor" value="43.8"/>
+        <m name="crotch_length" value="27.9"/>
+        <m name="body_torso_circ" value="57.9"/>
+        <m name="leg_thigh_upper_circ" value="22.6"/>
+        <m name="leg_thigh_mid_circ" value="17.4"/>
+        <m name="leg_knee_circ" value="13.7"/>
+        <m name="leg_calf_circ" value="13.1"/>
+        <m name="leg_ankle_circ" value="8.6"/>
+        <m name="leg_ankle_diag_circ" value="12.4"/>
+        <m name="arm_shoulder_tip_to_wrist_bent" value="20.9"/>
+        <m name="armscye_length" value="5.2"/>
+        <m name="arm_upper_circ" value="13.2"/>
+    </body-measurements>
+</vit>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pattern>
+    <!--Pattern created with Seamly2D v0.6.0.1 (https://fashionfreedom.eu/).-->
+    <version>0.6.0</version>
+    <unit>inch</unit>
+    <description/>
+    <notes/>
+    <measurements/>
+    <increments/>
+    <draw name="Pattern piece 1">
+        <calculation>
+            <point id="1" mx="0.0520833" my="0.104167" name="A" type="single" x="0.3125" y="0.416667"/>
+        </calculation>
+        <modeling/>
+        <details/>
+    </draw>
+</pattern>

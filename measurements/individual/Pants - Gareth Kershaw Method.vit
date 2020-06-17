@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vit>
+    <!--Measurements created with Seamly2D v0.6.0.1 (http://fashionfreedom.eu/).-->
+    <version>0.3.3</version>
+    <read-only>false</read-only>
+    <notes/>
+    <unit>inch</unit>
+    <pm_system>998</pm_system>
+    <personal>
+        <family-name/>
+        <given-name/>
+        <birth-date>1800-01-01</birth-date>
+        <gender>unknown</gender>
+        <email/>
+    </personal>
+    <body-measurements>
+        <m name="waist_circ" value="32+1.1875"/>
+        <m name="hip_circ" value="37.75+4"/>
+        <m description="Measure the front hip from one side seam, over the front crotch, and to the other side seam." full_name="Front hip measurement" name="@front_hip" value="hip_circ/2-2"/>
+        <m description="The hip measurement left over after deducting the Front hip measure from the hip circumference." full_name="Back hip measurement" name="@back_hip" value="hip_circ/2+2"/>
+        <m name="rise_length_side" value="10.25"/>
+        <m name="leg_waist_side_to_floor" value="42.125"/>
+        <m name="leg_crotch_to_floor" value="32"/>
+    </body-measurements>
+</vit>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vit>
+    <!--Measurements created with Seamly2D v0.6.0.1 (http://fashionfreedom.eu/).-->
+    <version>0.3.3</version>
+    <read-only>false</read-only>
+    <notes/>
+    <unit>cm</unit>
+    <pm_system>998</pm_system>
+    <personal>
+        <family-name/>
+        <given-name/>
+        <birth-date>1800-01-01</birth-date>
+        <gender>unknown</gender>
+        <email/>
+    </personal>
+    <body-measurements>
+        <m name="bust_circ" value="63.5"/>
+        <m name="waist_to_hip_f" value="13.8"/>
+        <m name="height" value="108"/>
+        <m name="armscye_length" value="14.4"/>
+        <m name="neck_back_to_waist_b" value="26.6"/>
+        <m name="across_back_b" value="21.59"/>
+        <m name="neck_circ" value="29"/>
+        <m name="shoulder_length" value="8.6"/>
+    </body-measurements>
+</vit>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vit>
+    <!--Measurements created with Seamly2D v0.6.0.0a (http://fashionfreedom.eu/).-->
+    <version>0.3.3</version>
+    <read-only>false</read-only>
+    <notes/>
+    <unit>inch</unit>
+    <pm_system>998</pm_system>
+    <personal>
+        <family-name/>
+        <given-name/>
+        <birth-date>1800-01-01</birth-date>
+        <gender>unknown</gender>
+        <email/>
+    </personal>
+    <body-measurements>
+        <m name="bust_circ" value="32.42+1.5"/>
+        <m name="waist_circ" value="22.54+0.5"/>
+        <m name="hip_circ" value="40.69+1.5"/>
+        <m name="neck_front_to_waist_f" value="12.37"/>
+        <m name="neck_side_to_waist_f" value="16.54"/>
+        <m name="bust_to_waist_f" value="5.56"/>
+        <m name="neck_side_to_waist_b" value="14.15"/>
+        <m name="neck_back_to_waist_b" value="12.91"/>
+        <m name="shoulder_slope_neck_back_height" value="1.33"/>
+        <m name="shoulder_length" value="4.41"/>
+        <m name="shoulder_tip_to_shoulder_tip_b" value="14"/>
+        <m name="bustpoint_to_bustpoint" value="6.89"/>
+        <m name="arm_shoulder_tip_to_wrist_bent" value="21.37"/>
+        <m name="arm_armpit_to_wrist" value="16.71"/>
+        <m name="arm_upper_circ" value="10.49"/>
+        <m name="arm_wrist_circ" value="5.59"/>
+    </body-measurements>
+</vit>

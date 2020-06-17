@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vst>
+    <!--Measurements created with Seamly2D v0.6.0.0a (http://fashionfreedom.eu/).-->
+    <version>0.4.4</version>
+    <read-only>false</read-only>
+    <notes>This multisize table is for babies from BIRTH to 6 MONTHS. It captures birth, 3 months, and 6 months. 
+
+This table is height-based and uses 56, 64, and 72 centimeters as bases coresponding to table sizes 56, 62, and 68 centimeters.
+
+A continuation of these sizes can be found in other multisize tables.</notes>
+    <unit>cm</unit>
+    <pm_system>998</pm_system>
+    <size base="50"/>
+    <height base="56"/>
+    <body-measurements>
+        <m base="41" height_increase="3" name="bust_circ" size_increase="0"/>
+        <m base="41" height_increase="2" name="waist_circ" size_increase="0"/>
+        <m base="41" height_increase="3" name="hip_circ" size_increase="0"/>
+        <m base="16.8" height_increase="1.2" name="across_back_b" size_increase="0"/>
+        <m base="22" height_increase="1" name="neck_circ" size_increase="0"/>
+        <m base="4.4" height_increase="0.6" name="shoulder_length" size_increase="0"/>
+        <m base="14.4" height_increase="0.8" name="arm_above_elbow_circ" size_increase="0"/>
+        <m base="9.8" height_increase="0.6" name="arm_wrist_circ" size_increase="0"/>
+        <m base="9" height_increase="0.8" name="armscye_length" size_increase="0"/>
+        <m base="15.8" height_increase="0.6" name="neck_back_to_waist_b" size_increase="0"/>
+        <m base="7" height_increase="1" name="waist_to_hip_f" size_increase="0"/>
+        <m base="42.2" height_increase="7.2" name="height_neck_back" size_increase="0"/>
+        <m base="20.2" height_increase="2.6" name="height_waist_side_to_knee" size_increase="0"/>
+        <m base="10.2" height_increase="1.3" name="rise_length_side_sitting" size_increase="0"/>
+        <m base="16" height_increase="5" name="leg_crotch_to_floor" size_increase="0"/>
+        <m base="19.2" height_increase="2.8" name="arm_shoulder_tip_to_wrist" size_increase="0"/>
+        <m base="42.5" height_increase="2.5" name="head_circ" size_increase="0"/>
+        <m base="66" height_increase="7" name="body_torso_circ" size_increase="0"/>
+        <m base="11" height_increase="1" name="leg_ankle_high_circ" size_increase="0"/>
+        <m base="8.4" full_name="Foot lenth" height_increase="1.2" name="@M_1" size_increase="0"/>
+        <m base="0" full_name="Cuff size, two-piece sleeve" height_increase="0" name="@M_2" size_increase="0"/>
+        <m base="0" full_name="Cuff size, shirts" height_increase="0" name="@M_3" size_increase="0"/>
+        <m base="0" full_name="Trouser bottom width" height_increase="0" name="@M_4" size_increase="0"/>
+        <m base="0" full_name="Jeans bottom width" height_increase="0" name="@M_5" size_increase="0"/>
+    </body-measurements>
+</vst>
