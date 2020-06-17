@@ -248,8 +248,8 @@
                 <patternInfo fontSize="0" height="1" mx="0" my="0" rotation="0" visible="false" width="1"/>
                 <grainline arrows="0" length="15" mx="740.729" my="1111.67" rotation="90" visible="true"/>
                 <nodes>
-                    <node before="5" idObject="105" type="NodePoint"/>
-                    <node idObject="106" type="NodePoint"/>
+                    <node after="2" before="5" idObject="105" type="NodePoint"/>
+                    <node before="2" idObject="106" type="NodePoint"/>
                     <node idObject="107" type="NodePoint"/>
                     <node after="5" idObject="108" type="NodePoint"/>
                 </nodes>
